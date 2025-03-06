@@ -1,3 +1,6 @@
 [submodule "Kotlin-test"]
 	path = Kotlin-test
 	url = git@github.com:DmitryVasilkovW/ITMO-Mobile-development-Kotlin-test.git
+[submodule "Swift-test"]
+	path = Swift-test
+	url = git@github.com:DmitryVasilkovW/ITMO-Mobile-development-Swift-test.git
