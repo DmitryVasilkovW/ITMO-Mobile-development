@@ -1,0 +1,3 @@
+[submodule "Kotlin-test"]
+	path = Kotlin-test
+	url = git@github.com:DmitryVasilkovW/ITMO-Mobile-development-Kotlin-test.git
