@@ -4,3 +4,6 @@
 [submodule "Swift-test"]
 	path = Swift-test
 	url = git@github.com:DmitryVasilkovW/ITMO-Mobile-development-Swift-test.git
+[submodule "Android-app"]
+	path = Android-app
+	url = git@github.com:DmitryVasilkovW/Sound-Hive-Android.git
